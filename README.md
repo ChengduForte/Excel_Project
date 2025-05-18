@@ -2,6 +2,6 @@
   /budget-tracker/
     budget-tracker.xlsx
     README.md
-  /invoice-generator/
-    invoice-template.xlsx
+  /Document-Mock/
+    Documentation.xlsx
     README.md
